@@ -5,6 +5,7 @@
     "branch": "oldcam-rebase"
   },
   {
+    "remote": "gitlab-stag",
     "repository": "vendor_xiaomi_lavender",
     "target_path": "vendor/xiaomi",
     "branch": "ten"
